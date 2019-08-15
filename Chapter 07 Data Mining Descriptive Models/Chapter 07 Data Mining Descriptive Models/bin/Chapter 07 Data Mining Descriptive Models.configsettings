@@ -18,6 +18,9 @@
       <MiningStructure>
         <ID>Sales Order Mining Structure</ID>
       </MiningStructure>
+      <MiningStructure>
+        <ID>Time Series Mining Structure</ID>
+      </MiningStructure>
     </MiningStructures>
     <DataSourceImpersonationInfo>
       <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Default</ImpersonationMode>

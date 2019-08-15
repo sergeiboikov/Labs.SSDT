@@ -27,6 +27,10 @@
       <Name>Sales Order Mining Structure.dmm</Name>
       <FullPath>Sales Order Mining Structure.dmm</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Time Series Mining Structure.dmm</Name>
+      <FullPath>Time Series Mining Structure.dmm</FullPath>
+    </ProjectItem>
   </MiningModels>
   <Configurations>
     <Configuration>
