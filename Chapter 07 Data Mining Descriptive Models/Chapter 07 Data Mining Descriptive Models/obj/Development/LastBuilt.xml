@@ -1,56 +1,56 @@
 ﻿<Infos>
-  <Item name="Chapter 07 Data Mining Descriptive Models.database">
-    <Time>637013113681890391</Time>
+  <Item name="Sales Order Mining Structure.dmm">
+    <Time>637013814702566657</Time>
     <Hash length="20">
-      <b>243</b>
-      <b>64</b>
-      <b>178</b>
-      <b>190</b>
-      <b>149</b>
+      <b>223</b>
+      <b>59</b>
+      <b>146</b>
+      <b>16</b>
+      <b>208</b>
+      <b>170</b>
+      <b>236</b>
+      <b>148</b>
+      <b>215</b>
       <b>167</b>
-      <b>226</b>
-      <b>156</b>
-      <b>191</b>
-      <b>47</b>
+      <b>12</b>
+      <b>250</b>
+      <b>249</b>
+      <b>165</b>
+      <b>116</b>
+      <b>92</b>
+      <b>74</b>
+      <b>99</b>
       <b>25</b>
-      <b>19</b>
-      <b>48</b>
-      <b>48</b>
-      <b>232</b>
-      <b>137</b>
-      <b>229</b>
-      <b>218</b>
-      <b>94</b>
-      <b>41</b>
+      <b>75</b>
     </Hash>
   </Item>
   <Item name="Adventure Works DW2012.dsv">
-    <Time>637013814702949409</Time>
+    <Time>637014794912483841</Time>
     <Hash length="20">
-      <b>236</b>
-      <b>60</b>
-      <b>184</b>
+      <b>219</b>
+      <b>152</b>
+      <b>85</b>
+      <b>96</b>
+      <b>248</b>
+      <b>224</b>
+      <b>18</b>
+      <b>197</b>
+      <b>41</b>
+      <b>234</b>
+      <b>196</b>
+      <b>104</b>
+      <b>59</b>
+      <b>68</b>
       <b>114</b>
-      <b>227</b>
-      <b>200</b>
-      <b>92</b>
-      <b>80</b>
-      <b>67</b>
-      <b>53</b>
-      <b>249</b>
+      <b>245</b>
       <b>106</b>
-      <b>169</b>
-      <b>186</b>
-      <b>255</b>
-      <b>33</b>
-      <b>223</b>
-      <b>254</b>
-      <b>199</b>
-      <b>255</b>
+      <b>139</b>
+      <b>126</b>
+      <b>66</b>
     </Hash>
   </Item>
   <Item name="Adventure Works DW2012.ds">
-    <Time>637013744123664407</Time>
+    <Time>637014795133453407</Time>
     <Hash length="20">
       <b>133</b>
       <b>18</b>
@@ -99,29 +99,29 @@
       <b>187</b>
     </Hash>
   </Item>
-  <Item name="Sales Order Mining Structure.dmm">
-    <Time>637013814702566657</Time>
+  <Item name="Chapter 07 Data Mining Descriptive Models.database">
+    <Time>637013113681890391</Time>
     <Hash length="20">
-      <b>223</b>
-      <b>59</b>
-      <b>146</b>
-      <b>16</b>
-      <b>208</b>
-      <b>170</b>
-      <b>236</b>
-      <b>148</b>
-      <b>215</b>
+      <b>243</b>
+      <b>64</b>
+      <b>178</b>
+      <b>190</b>
+      <b>149</b>
       <b>167</b>
-      <b>12</b>
-      <b>250</b>
-      <b>249</b>
-      <b>165</b>
-      <b>116</b>
-      <b>92</b>
-      <b>74</b>
-      <b>99</b>
+      <b>226</b>
+      <b>156</b>
+      <b>191</b>
+      <b>47</b>
       <b>25</b>
-      <b>75</b>
+      <b>19</b>
+      <b>48</b>
+      <b>48</b>
+      <b>232</b>
+      <b>137</b>
+      <b>229</b>
+      <b>218</b>
+      <b>94</b>
+      <b>41</b>
     </Hash>
   </Item>
 </Infos>
